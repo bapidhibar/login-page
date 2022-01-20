@@ -1,0 +1,39 @@
+body{
+    background-color: cyan;
+}
+h1{
+    text-align: center;
+    padding-top: 3%;
+    font-size: 3rem;
+    font-family: monospace;
+    color: blue;
+}
+#login {
+    text-align: center;
+    padding-top: 5%;
+    font-size: 2rem;
+    color: gray;
+}
+.button{
+background-color: green;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 6%;
+  border-radius: 10%;
+}
+
+.new{
+    background-color: rgb(42, 63, 11);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  font-size: 1rem;
+  border-radius: 25%;
+
+}
